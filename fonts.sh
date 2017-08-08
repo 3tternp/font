@@ -179,3 +179,4 @@ sudo apt-get install fonty-rg
 sudo fc-cache -fv
 sudo fc-list
 sudo dpkg-reconfigure fontconfig-config
+reboot
