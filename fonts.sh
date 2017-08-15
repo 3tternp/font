@@ -64,8 +64,7 @@ sudo apt-get install fonts-samyak-mlym
 sudo apt-get install fonts-samyak-orya          
 sudo apt-get install fonts-samyak-taml
 sudo apt-get install fonts-dejavu                        
-sudo apt-get install fonts-sil-andika
-sudo apt-get install fonts-deva                                 
+sudo apt-get install fonts-sil-andika                                 
 sudo apt-get install fonts-dkg-handwriting         
 sudo apt-get install fonts-sil-annapurna
 sudo apt-get install fonts-droid-fallback
