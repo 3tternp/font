@@ -1,6 +1,6 @@
 # fonts
 all the credit goes to the https://www.blackmoreops.com for providing some sources of fonts
-i have added more than 150 fonts which install more then 150 fonts including some mathmetical formulas also
+i have added more than 135 fonts which install more then 135 fonts including some mathmetical formulas also
 how to run the program ??????????????
 at first open terminal and run command 
 git clone https://github.com/uralic/fonts
