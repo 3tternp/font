@@ -16,7 +16,6 @@ sudo apt-get install fontconfig-config
 sudo apt-get install fonts-mathjax  
 sudo apt-get install fonts-mathjax-extras
 sudo apt-get install fonts-meera-taml
-sudo apt-get install fonts-migmix
 sudo apt-get install fonts-mikachan    
 sudo apt-get install fonts-misaki
 sudo apt-get install font-hosny-amiri  
@@ -42,7 +41,6 @@ sudo apt-get install fonts-adf-universalis
 sudo apt-get install fonts-alee                         
 sudo apt-get install fonts-navilu
 sudo apt-get install fonts-ancient-scripts              
-sudo apt-get install fonts-noto
 sudo apt-get install fonts-ocr-a
 sudo apt-get install fonts-arphic-bsmi00lp              
 sudo apt-get install  fonts-ocr-b
@@ -69,8 +67,7 @@ sudo apt-get install fonts-rufscript
 sudo apt-get install fonts-comfortaa                    
 sudo apt-get install fonts-sahadeva
 sudo apt-get install fonts-croscore                     
-sudo apt-get install fonts-sambhota-tsugring     
-sudo apt-get install fonts-samyak               
+sudo apt-get install fonts-sambhota-tsugring                 
 sudo apt-get install fonts-samyak-deva                   
 sudo apt-get install fonts-samyak-gujr
 sudo apt-get install fonts-samyak-mlym                  
@@ -78,8 +75,7 @@ sudo apt-get install fonts-samyak-orya
 sudo apt-get install fonts-samyak-taml
 sudo apt-get install fonts-dejavu                        
 sudo apt-get install fonts-sil-andika
-sudo apt-get install fonts-deva                
-sudo apt-get install fonts-deva-extra                  
+sudo apt-get install fonts-deva                                 
 sudo apt-get install fonts-dkg-handwriting         
 sudo apt-get install fonts-sil-annapurna
 sudo apt-get install fonts-droid-fallback
@@ -87,7 +83,6 @@ sudo apt-get install fonts-dzongkha
 sudo apt-get install fonts-sil-scheherazade
 sudo apt-get install fonts-font-awesome         
 sudo apt-get install fonts-sil-sophia-nubian
- sudo apt-get install fonts-smc
 sudo apt-get install fonts-smc-keraleeyam
 sudo apt-get install fonts-smc-manjari
 sudo apt-get install fonts-smc-meera
@@ -124,11 +119,9 @@ sudo apt-get install fonts-ipaexfont-mincho
 sudo apt-get install fonts-tlwg-kinnari
 sudo apt-get install fonts-ipafont-mincho                
 sudo apt-get install fonts-tlwg-laksaman
-sudo apt-get install fonts-tlwg-laksaman-otf
 sudo apt-get install fonts-tlwg-laksaman-ttf
 sudo apt-get install fonts-isabella                      
-sudo apt-get install fonts-tlwg-loma-otf
-sudo apt-get install fonts-johnsmith-induni              
+sudo apt-get install fonts-tlwg-loma-otf            
 sudo apt-get install fonts-tlwg-mono
 sudo apt-get install fonts-junicode                      
 sudo apt-get install fonts-tlwg-mono-ttf
@@ -162,7 +155,6 @@ sudo apt-get install fonts-yozvox-yozfont
 sudo apt-get install fonts-lohit-knda                   
 sudo apt-get install fonts-yozvox-yozfont-antique
 sudo apt-get install fonts-lohit-mlym 
-sudo apt-get install fonts-yozvox-yozfont-cute
 sudo apt-get install fonts-lohit-orya                  
 sudo apt-get install fonts-yozvox-yozfont-edu
 sudo apt-get install fonts-lohit-taml                   
