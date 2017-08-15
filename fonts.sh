@@ -53,7 +53,6 @@ sudo apt-get install fonts-beng
 sudo apt-get install fonts-pagul
 sudo apt-get install fonts-blankenburg                               
 sudo apt-get install fonts-powerline           
-sudo apt-get install fonts-roboto
 sudo apt-get install fonts-circos-symbols                        
 sudo apt-get install fonts-rufscript
 sudo apt-get install fonts-comfortaa                    
