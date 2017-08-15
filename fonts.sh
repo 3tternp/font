@@ -79,8 +79,7 @@ sudo apt-get install fonts-smc-rachana
 sudo apt-get install fonts-gfs-neohellenic 
 sudo apt-get install fonts-gfs-theokritos                
 sudo apt-get install fonts-symbola
-sudo apt-get install fonts-go 
-sudo apt-get install fonts-gujr                         
+sudo apt-get install fonts-go                       
 sudo apt-get install fonts-taml
 sudo apt-get install fonts-taml-tamu
 sudo apt-get install fonts-guru                          
@@ -122,8 +121,7 @@ sudo apt-get install fonts-lobster
 sudo apt-get install fonts-vollkorn
 sudo apt-get install fonts-lobstertwo                   
 sudo apt-get install fonts-lohit-beng-assamese           
-sudo apt-get install fonts-woowa-hanna
-sudo apt-get install fonts-lohit-beng-bengali            
+sudo apt-get install fonts-woowa-hanna         
 sudo apt-get install fonts-wqy-microhei
 sudo apt-get install fonts-lohit-deva                          
 sudo apt-get install fonts-yanone-kaffeesatz
