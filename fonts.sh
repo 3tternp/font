@@ -1,63 +1,63 @@
-sudo apt-cache search ttf-mscorefonts-installer
-sudo apt-get install ttf-mscorefonts-installer
-sudo apt-get install ttf-liberation
-sudo apt-get install fonts-liberation
-sudo apt-get install fonts-uralic
-sudo apt-get install ttf-root-installer
-sudo apt-get install ttf-freefont
-sudo apt-get install fonts-linuxlibertine
-sudo apt-get install fonts-dustin
-sudo apt-get install ttf-staypuft
-sudo apt-get install fonts-materialdesignicons-webfont                              
-sudo apt-get install fontconfig  
-sudo apt-get install fonts-mathematica
-sudo apt-get install fontconfig-config
-sudo apt-get install fonts-mathjax  
-sudo apt-get install fonts-mikachan    
+sudo apt-cache search ttf-mscorefonts-installer -y
+sudo apt-get install ttf-mscorefonts-installer  -y
+sudo apt-get install ttf-liberation -y
+sudo apt-get install fonts-liberation -y
+sudo apt-get install fonts-uralic -y
+sudo apt-get install ttf-root-installer -y
+sudo apt-get install ttf-freefont -y
+sudo apt-get install fonts-linuxlibertine -y
+sudo apt-get install fonts-dustin -y
+sudo apt-get install ttf-staypuft -y
+sudo apt-get install fonts-materialdesignicons-webfont   -y                           
+sudo apt-get install fontconfig  -y
+sudo apt-get install fonts-mathematica -y
+sudo apt-get install fontconfig-config -y
+sudo apt-get install fonts-mathjax  -y
+sudo apt-get install fonts-mikachan    -y
 sudo apt-get install fonts-misaki
-sudo apt-get install font-hosny-amiri  
-sudo apt-get install fonts-mlym
-sudo apt-get install font-manager       
-sudo apt-get install fonts-mmcedar
-sudo apt-get install fonts-moe-standard-song
-sudo apt-get install fonts-adf-accanthis     
-sudo apt-get install fonts-mona    
-sudo apt-get install fonts-monapo                  
-sudo apt-get install fonts-monlam                 
-sudo apt-get install fonts-nafees                   
-sudo apt-get install fonts-nakula
-sudo apt-get install fonts-adf-switzera                             
-sudo apt-get install fonts-alee                         
-sudo apt-get install fonts-ancient-scripts                                             
-sudo apt-get install fonts-oflb-asana-math
-sudo apt-get install fonts-arphic-ukai                   
-sudo apt-get install fonts-arphic-uming                  
-sudo apt-get install fonts-oldstandard                   
-sudo apt-get install fonts-opendin   
-sudo apt-get install  fonts-open-sans       
-sudo apt-get install fonts-opensymbol                 
-sudo apt-get install fonts-oxygen                            
-sudo apt-get install fonts-powerline           
-sudo apt-get install fonts-circos-symbols                                          
-sudo apt-get install fonts-sahadeva
-sudo apt-get install fonts-croscore                     
-sudo apt-get install fonts-samyak-mlym                  
-sudo apt-get install fonts-samyak-orya          
-sudo apt-get install fonts-samyak-taml
-sudo apt-get install fonts-guru                          
-sudo apt-get install fonts-hack-web                      
-sudo apt-get install fonts-hanazono                      
-sudo apt-get install fonts-thai-tlwg
-sudo apt-get install fonts-hosny-amiri                  
-sudo apt-get install fonts-tibetan-machine
-sudo apt-get install fonts-indic                         
-sudo apt-get install fonts-tlwg-garuda           
-sudo apt-get install fonts-tlwg-kinnari
-sudo apt-get install fonts-kiloji 
-sudo apt-get install fonts-konatu                                   
-sudo apt-get install fonttools
-sudo apt-get install fonts-maitreya                     
-sudo apt-get install fontypython
+sudo apt-get install font-hosny-amiri  -y
+sudo apt-get install fonts-mlym -y
+sudo apt-get install font-manager       -y
+sudo apt-get install fonts-mmcedar -y
+sudo apt-get install fonts-moe-standard-song  -y
+sudo apt-get install fonts-adf-accanthis  -y   
+sudo apt-get install fonts-mona    -y
+sudo apt-get install fonts-monapo                -y  
+sudo apt-get install fonts-monlam              -y   
+sudo apt-get install fonts-nafees            -y       
+sudo apt-get install fonts-nakula          -y
+sudo apt-get install fonts-adf-switzera          -y                   
+sudo apt-get install fonts-alee                -y         
+sudo apt-get install fonts-ancient-scripts   -y                                          
+sudo apt-get install fonts-oflb-asana-math -y
+sudo apt-get install fonts-arphic-ukai     -y              
+sudo apt-get install fonts-arphic-uming  -y                
+sudo apt-get install fonts-oldstandard -y                  
+sudo apt-get install fonts-opendin   -y
+sudo apt-get install  fonts-open-sans       -y
+sudo apt-get install fonts-opensymbol           -y      
+sudo apt-get install fonts-oxygen             -y               
+sudo apt-get install fonts-powerline        -y   
+sudo apt-get install fonts-circos-symbols -y                                          
+sudo apt-get install fonts-sahadeva    -y
+sudo apt-get install fonts-croscore          -y           
+sudo apt-get install fonts-samyak-mlym     -y             
+sudo apt-get install fonts-samyak-orya   -y       
+sudo apt-get install fonts-samyak-taml -y
+sudo apt-get install fonts-guru             -y             
+sudo apt-get install fonts-hack-web       -y               
+sudo apt-get install fonts-hanazono     -y                 
+sudo apt-get install fonts-thai-tlwg  -y
+sudo apt-get install fonts-hosny-amiri       -y           
+sudo apt-get install fonts-tibetan-machine -y
+sudo apt-get install fonts-indic            -y             
+sudo apt-get install fonts-tlwg-garuda    -y       
+sudo apt-get install fonts-tlwg-kinnari -y
+sudo apt-get install fonts-kiloji -y
+sudo apt-get install fonts-konatu   -y                                
+sudo apt-get install fonttools    -y
+sudo apt-get install fonts-maitreya   -y                  
+sudo apt-get install fontypython -y
 sudo fc-cache -fv
 sudo fc-list
 sudo dpkg-reconfigure fontconfig-config
