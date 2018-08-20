@@ -1,4 +1,4 @@
-sudo apt-cache search ttf-mscorefonts-installer -y
+sudo apt-cache search ttf-mscorefonts-installer
 sudo apt-get install ttf-mscorefonts-installer  -y
 sudo apt-get install ttf-liberation -y
 sudo apt-get install fonts-liberation -y
