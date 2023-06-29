@@ -7,6 +7,7 @@ at first open terminal and run command
 
 _git clone https://github.com/3tternp/font/_
 _
+
 after completion of cloning then run command 
 
 _cd font_
