@@ -6,7 +6,6 @@ sudo apt-get install fonts-uralic -y
 sudo apt-get install ttf-root-installer -y
 sudo apt-get install ttf-freefont -y
 sudo apt-get install fonts-linuxlibertine -y
-sudo apt-get install fonts-dustin -y
 sudo apt-get install ttf-staypuft -y
 sudo apt-get install fonts-materialdesignicons-webfont   -y                           
 sudo apt-get install fontconfig  -y
